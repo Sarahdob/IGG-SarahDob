@@ -1,7 +1,9 @@
-Introduction to Git & Github: Your name here This candidate repository has been set up to store the assessment materials for completing the IGG course.
+Introduction to Git & Github: Sarah Dobson 
 
-    Candidate Name:  Your name here
-    Course starting Date: The date you start this course
+This candidate repository has been set up to store the assessment materials for completing the IGG course.
+
+    Candidate Name:  Sarah Dobson
+    Course starting Date: 16/4/2023
 
     Course Layout
 
